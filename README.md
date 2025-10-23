@@ -1,9 +1,9 @@
 # Proyecto Aula GitHub
 
 Este proyecto tiene como objetivo practicar el uso de control de versiones
-con **Git** y **GitHub** como parte de la asignatura de Ingeniería en Sistemas.
+con **Git** y **GitHub** como parte de la asignatura de DESARROLLO APLICAC SIST INFO.
 
-## Integrante
+## Estudiante
 - Marco Caicedo
 
 ## Descripción
