@@ -12,3 +12,10 @@ commits descriptivos, y documentación de comandos.
 
 ## Análisis de Viabilidad
 El proyecto es viable técnica y académicamente.
+
+## Tabla de Factibilidad
+| Tipo        | Evaluación |
+|-------------|-------------|
+| Técnica     | Alta        |
+| Económica   | Media       |
+| Legal       | Alta        |
